@@ -1,0 +1,11 @@
+C:\Users\vicmn\source\repos\ABTurnos\ABTurnos\bin\Debug\ABTurnos.exe.config
+C:\Users\vicmn\source\repos\ABTurnos\ABTurnos\bin\Debug\ABTurnos.exe
+C:\Users\vicmn\source\repos\ABTurnos\ABTurnos\bin\Debug\ABTurnos.pdb
+C:\Users\vicmn\source\repos\ABTurnos\ABTurnos\obj\Debug\ABTurnos.csprojAssemblyReference.cache
+C:\Users\vicmn\source\repos\ABTurnos\ABTurnos\obj\Debug\ABTurnos.Form1.resources
+C:\Users\vicmn\source\repos\ABTurnos\ABTurnos\obj\Debug\ABTurnos.Properties.Resources.resources
+C:\Users\vicmn\source\repos\ABTurnos\ABTurnos\obj\Debug\ABTurnos.csproj.GenerateResource.cache
+C:\Users\vicmn\source\repos\ABTurnos\ABTurnos\obj\Debug\ABTurnos.csproj.CoreCompileInputs.cache
+C:\Users\vicmn\source\repos\ABTurnos\ABTurnos\obj\Debug\ABTurnos.exe
+C:\Users\vicmn\source\repos\ABTurnos\ABTurnos\obj\Debug\ABTurnos.pdb
+C:\Users\vicmn\source\repos\ABTurnos\ABTurnos\obj\Debug\ABTurnos.Reportes.resources
